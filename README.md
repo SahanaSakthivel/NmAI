@@ -1,1 +1,1 @@
-# NmAI
+# AI_project
